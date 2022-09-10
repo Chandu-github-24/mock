@@ -1,0 +1,32 @@
+.title-one{
+    background-color: #016599;
+    color: #fff;
+    text-align: center;
+}
+
+.about {
+    width: 100%;
+ 
+}
+
+ .about-in{
+    width: 75%;
+  
+}  
+
+.about-in ul {
+    display: flex;
+    justify-content: space-around;
+list-style-type: none;
+color: #fff;
+}
+
+ .about-out{
+    width: 25%;  
+    align-items: right;
+    color: #fff; 
+}  
+
+.section-two{
+    background-color: #016599;
+}
